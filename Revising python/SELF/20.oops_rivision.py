@@ -20,3 +20,7 @@ if no_of_seats >= 1:
     movie.book_ticket(no_of_seats)
 else:
     print("Please Enter number grateer than or equals to 1")
+
+
+
+
