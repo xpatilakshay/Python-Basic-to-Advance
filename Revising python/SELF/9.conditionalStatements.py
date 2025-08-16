@@ -34,4 +34,18 @@
 
 # n = int(input("Enter the number : "))
 # a = f"{n} Number is Even" if n%2==0 else f"{n} Number is Odd"
+
+
+
+## Match Case
+
+a=2
+match(a):
+    case 1:
+        print("January")
+    case 2:
+        print("February")
+    case _:
+        print("Default")
+
 # print(a)
